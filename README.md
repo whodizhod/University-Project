@@ -12,3 +12,6 @@ There are functions for:
 - Dividing the failed and successful students in a new list;
 - Printing out the list with all the students;
 - Exiting the program.
+
+TODO:
+- Exception handling
