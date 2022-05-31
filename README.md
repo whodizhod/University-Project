@@ -13,5 +13,7 @@ There are functions for:
 - Printing out the list with all the students;
 - Exiting the program.
 
+PrintVector() actually prints a list because there were two versions of this program - one with a vector and one with a list
+
 TODO:
 - Exception handling
